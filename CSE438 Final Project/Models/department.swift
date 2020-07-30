@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  department.swift
 //  CSE438 Final Project
 //
 //  Created by Michael Zhao on 7/22/20.
@@ -7,3 +7,8 @@
 //
 
 import Foundation
+
+struct department{
+    let id:String
+    let name:String
+}
